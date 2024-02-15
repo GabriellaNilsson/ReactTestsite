@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GabriellaNilsson/ReactTestsite/static/css/main.f855e6bc.css",
-    "main.js": "/GabriellaNilsson/ReactTestsite/static/js/main.e47fe490.js",
-    "static/js/592.02578aab.chunk.js": "/GabriellaNilsson/ReactTestsite/static/js/592.02578aab.chunk.js",
-    "index.html": "/GabriellaNilsson/ReactTestsite/index.html",
-    "main.f855e6bc.css.map": "/GabriellaNilsson/ReactTestsite/static/css/main.f855e6bc.css.map",
-    "main.e47fe490.js.map": "/GabriellaNilsson/ReactTestsite/static/js/main.e47fe490.js.map",
-    "592.02578aab.chunk.js.map": "/GabriellaNilsson/ReactTestsite/static/js/592.02578aab.chunk.js.map"
+    "main.css": "/ReactTestsite/static/css/main.f855e6bc.css",
+    "main.js": "/ReactTestsite/static/js/main.9ef57d5b.js",
+    "static/js/592.02578aab.chunk.js": "/ReactTestsite/static/js/592.02578aab.chunk.js",
+    "index.html": "/ReactTestsite/index.html",
+    "main.f855e6bc.css.map": "/ReactTestsite/static/css/main.f855e6bc.css.map",
+    "main.9ef57d5b.js.map": "/ReactTestsite/static/js/main.9ef57d5b.js.map",
+    "592.02578aab.chunk.js.map": "/ReactTestsite/static/js/592.02578aab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e47fe490.js"
+    "static/js/main.9ef57d5b.js"
   ]
 }
